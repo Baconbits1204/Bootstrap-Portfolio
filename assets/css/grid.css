@@ -1,0 +1,5 @@
+.row {
+    border: 1px solid green;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+}
